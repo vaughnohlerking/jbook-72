@@ -1,6 +1,9 @@
+# jbook-72
+This is an application I built with heavy guidance from a Udemy training course. It's purpose was purely to learn Typescript and React and it was effective.
 Majority of the credit for this app goes to Stephen Grider and whoever else helped on the "React and Typescript: Build a Portfolio Project" Udemy course
 
-to run, navigate to jbook directory and execute :
+---
+to run, navigate to jbook directory ( or directory you want jbook installed in ) and execute :
 npx jsnote-72 serve
 
 the option --help can provide further information
